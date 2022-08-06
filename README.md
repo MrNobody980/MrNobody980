@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNobody980
-- 👀 I’m interested software developement, web developement, AR, AI and IOT. 
+- 👀 I’m interested software developement, web developement, AR, AI and IoT. 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on opensource project in IOT, AI or AR 
+- 💞️ I’m looking to collaborate on opensource project in IoT, AI or AR 
 - 📫 How to reach me on my e-mail y.gauthier980@outlook.com, and soon my web site. 
 
 <!---
